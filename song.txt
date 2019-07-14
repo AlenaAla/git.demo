@@ -8,9 +8,6 @@ some row from WorkComp
 gui & gitk
 from HomeComp
 
-third couplet
-_ _ _ _ _ _ _
 
-branch feature
 
-one more commit for feature
+removed some content for feature commit
