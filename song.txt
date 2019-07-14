@@ -7,6 +7,3 @@ some row from WorkComp
 
 gui & gitk
 from HomeComp
-
-third couplet
-_ _ _ _ _ _ _
